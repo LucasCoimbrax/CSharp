@@ -1,0 +1,15 @@
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\bin\Debug\net6.0\Desafio_01.exe
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\bin\Debug\net6.0\Desafio_01.deps.json
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\bin\Debug\net6.0\Desafio_01.runtimeconfig.json
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\bin\Debug\net6.0\Desafio_01.dll
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\bin\Debug\net6.0\Desafio_01.pdb
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\obj\Debug\net6.0\Desafio_01.csproj.AssemblyReference.cache
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\obj\Debug\net6.0\Desafio_01.GeneratedMSBuildEditorConfig.editorconfig
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\obj\Debug\net6.0\Desafio_01.AssemblyInfoInputs.cache
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\obj\Debug\net6.0\Desafio_01.AssemblyInfo.cs
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\obj\Debug\net6.0\Desafio_01.csproj.CoreCompileInputs.cache
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\obj\Debug\net6.0\Desafio_01.dll
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\obj\Debug\net6.0\refint\Desafio_01.dll
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\obj\Debug\net6.0\Desafio_01.pdb
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\obj\Debug\net6.0\Desafio_01.genruntimeconfig.cache
+U:\Curso\dotnet\03.05.23\desafio_1\Desafio_01\obj\Debug\net6.0\ref\Desafio_01.dll
